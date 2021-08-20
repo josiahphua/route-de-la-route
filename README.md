@@ -19,4 +19,3 @@ Things to work on and add in:
 3) Above button activates function that runs to db.collection('Users').doc(currentUser.uid).set(attemptedRoute:[]) \
     This function creates user with uid and allows info storage.
 4) Add sent checkbox for user to input whether the route has been sent, as attempts doesn't really translate to send. And if sent, then user will not be able to edit attempts unless uncheck sent.
-5) 
